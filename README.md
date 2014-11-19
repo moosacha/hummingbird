@@ -1,4 +1,0 @@
-hummingbird
-===========
-
-The Hummingbird Application
